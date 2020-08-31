@@ -1,12 +1,24 @@
 - layout: left
   company: Contrats divers
-  link: -[Fiverr](https://www.fiverr.com/hazenn?up_rollout=true)
+  link: https://www.fiverr.com/hazenn
   job_title: Développement et tutoring
   dates: Depuis 2019
-  quote: >
-   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+  #quote: >
   description: | # this will include new lines to allow paragraphs
-    * Développement de shaders et gameplay pour Odyssey Entertainment.
+    * Développement pour le jeu [*Transmogrify*](https://www.playtransmogrify.com/) d'Odyssey Entertainment.
+    Création d'effets spéciaux en collaboration avec un animateur, programmation d'éléments de gameplay avec une équipe de plus de 10 personnes. Le projet utilise
+    <mark>Git</mark> pour le contrôle de version. Jeu développé avec le moteur <mark>Godot 3</mark>, son language <mark>GDscript</mark> proche de **Python**, et
+    sa version customisée du language de shading <mark>GLSL</mark>.
     * Développement et tutoring via la plateforme fiverr sous le pseudo hazenn.
-    * Recherche de clients et contrats divers.
+    * Recherche de clients, collaboration et échanges avec des communautés de developpeurs.
 
+- layout: left
+  company: Particuliers
+  #link: https://www.fiverr.com/hazenn
+  job_title: Cours particuliers
+  dates: Depuis 2017
+  #quote: >
+  description: | # this will include new lines to allow paragraphs
+    * En ligne ou en présentiel, en français et en anglais niveaux lycée à License.
+    * Musique, Mathématique, Physique et informatique.
+    * Préparation au baccalauréat.

@@ -1,8 +1,26 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
-  quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  name: Programmation de shaders
+  link: https://www.shadertoy.com/user/hazenn
+  github: hasenn/godot-toon-shaders
+  #quote: >
+  #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    * Programmation en <mark>GLSL</mark> d’un moteur de rendu 3D avec la méthode du *Ray-Marching*
+    * Test et développement de differentes techniques d'effets spéciaux et de génération procédurale d'images
+    * Développement de shaders *toon* pour le moteur de jeu open-source <mark>Godot 3</mark>
+    * Intégration en <mark>Javascript</mark> de shaders avec WebGL sur un site test en vue d'une utilisation future pour mon site personnel
+
+- layout: top-middle
+  name: Projets raspberry pi
+  #link: https://www.shadertoy.com/user/hazenn
+  #github: hasenn/godot-toon-shaders
+  #quote: >
+  #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+  description: | # this will include new lines to allow paragraphs
+
+  
+    Grâce a mon *Pi*, j'ai mené à bien plusieurs projets personnels. j'ai pû apprendre à administrer un serveur web dynamique via SSH avec le stack <mark>LXMP</mark>
+    dans le cadre d'un serveur test pour comparer differents CMS. J'ai aussi utilisé mon raspberry pi comme NAS et comme émulateur de consoles de jeu rétro.
+    Cela m'a familiarisé avec le <mark>Shell Unix</mark>.
+
+    

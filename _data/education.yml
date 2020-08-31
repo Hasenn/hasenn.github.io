@@ -1,13 +1,13 @@
 - layout: left
-  name: Université des sciences de montpellier
+  name: Université des Sciences de Montpellier
   dates: 2017 - 2019
   qualification: Licence de mathématiques
   quote: >
     Apprentissage des bases des mathématiques tant sous l’aspect théorique (analyse et algèbre), qu’appliqué (probabilités et statistique, analyse numérique, recherche opérationnelle, utilisation de logiciels scientifiques). 
   description: | # this will include new lines to allow paragraphs
-    Validation de ma license en mathématique, option Optimisation. Travaux pratiques utilisant les languages <mark> R </mark> et <mark> Python </mark>.
+    Validation de ma license en mathématique, option Optimisation. Travaux pratiques utilisant les languages <mark>R</mark> et <mark>Python</mark>.
 
-- layout: left
+- layout: right
   name: CPGE Lycée joffre
   dates: 2015 - 2017
   qualification: Equivalence L2

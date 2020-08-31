@@ -1,5 +1,5 @@
 # Site
-repository: sproogen/resume-theme
+repository: hasenn/hasenn.github.io
 favicon: images/favicon.ico
 
 # Personal info
@@ -21,30 +21,44 @@ instagram_username: hazen_o
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
+about_title: A propos de moi
+#about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-Diplomé de la faculté des sciences de montpellier, je cherche a me reconvertir dans le développement informatique, qui m'a toujours interessé.
-Je suis rigoureux, curieux, et je sait m'integrer dans une équipe. (incomplet)
+  
+
+  Diplomé de la faculté des sciences de montpellier, je cherche a me reconvertir dans le développement informatique, qui m'a toujours interessé.
+
+  Âgé de 21 ans, je suis curieux, rigoureux, et je sait faire preuve de savoir-être pour m'intègrer dans une équipe.
+
+  Mes Compétences :
+
+  ![Codewars Badge](https://www.codewars.com/users/Hasenn/badges/small)
+
+  -  Méthodologies : <mark>UML</mark> <mark>Agile</mark>
+  -  Programmation / Scripting : <mark>Python</mark> <mark>C#</mark> <mark>C/C++</mark> <mark>F#</mark> <mark>Caml</mark> 
+  <mark>JavaScript</mark> <mark>WebGL</mark> <mark>GLSL</mark> <mark>PowerShell</mark> <mark>Shell Unix</mark>
+  -  Markdown / Web : <mark>Xml</mark> <mark>Html5</mark> <mark>Css3</mark> <mark>Json</mark> <mark>Yaml</mark> <mark>Toml</mark>
+  -  Bases de données : <mark>MariaDB</mark> <mark>PostgreSQL</mark>
+  -  Outils et technologies : <mark>Git</mark> <mark>Unity</mark> <mark>Godot 3</mark> <mark>Discord API</mark>
+  
 
 
 # Projects Section
-# projects_title: Projects
+projects_title: Projets
 
 # Experience Section
-# experience_title: Experience
+experience_title: Expérience
 
 # Education Section
-# educaton_title: Education
+educaton_title: Education
 
 # More Section
-# more_title: A Little More About Me
+more_title: Loisirs
 more_content: | # this will include new lines to allow paragraphs
-  Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
-   - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+  * Musique : Improvisation jazz au piano et à la guitare, M.A.O. avec un home-studio, composition dans le style des bandes originales de mes jeux préférés.
+
+  * Sports et jeux compétitifs d’équipe : Basket-Ball, Counter-Strike, Age of Empires 2, ...
+
 
 # Footer
 footer_show_references: true
