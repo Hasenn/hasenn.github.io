@@ -1,5 +1,3 @@
-
-
 const elems = document.querySelectorAll(".ascii-glitch");
 const charset = "^$ù6|3#&@*/.?,:!oiuvqz";
 const update_every = 90;// ms
