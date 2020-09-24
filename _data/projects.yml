@@ -5,7 +5,7 @@
   #quote: >
   #  This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
   description: | # this will include new lines to allow paragraphs
-    * Programmation en <mark>GLSL</mark> d’un moteur de rendu 3D avec la méthode du *Ray-Marching*
+    * Programmation en <mark>GLSL</mark> d’un moteur de rendu 3D avec la méthode du *Ray-Marching*. voir [une demo](./demos/raymarching)
     * Test et développement de differentes techniques d'effets spéciaux et de génération procédurale d'images
     * Développement de shaders *toon* pour le moteur de jeu open-source <mark>Godot 3</mark>
     * Intégration en <mark>Javascript</mark> de shaders avec WebGL sur un site test en vue d'une utilisation future pour mon site personnel

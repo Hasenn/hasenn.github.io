@@ -1,0 +1,46 @@
+:root {
+    font-size: 16px;
+}
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+      -webkit-user-select: none; /* Safari */
+       -khtml-user-select: none; /* Konqueror HTML */
+         -moz-user-select: none; /* Old versions of Firefox */
+          -ms-user-select: none; /* Internet Explorer/Edge */
+              user-select: none; /* Non-prefixed version, currently
+                                    supported by Chrome, Edge, Opera and Firefox */
+}
+body {
+    margin: 0;
+    font-family: monospace;
+    width: auto;
+    background-color: #222;
+}
+.center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+.center h2 {
+    color: black;
+    font-size: 1rem;
+    opacity: 60%;
+}
+#hasen {
+    color: black;
+    font-size: 3rem;
+    opacity: 60%;
+}
+
+#glbackground {
+    top: 0;
+    position: absolute;
+    background-color: #222;
+    bottom: 0;
+    width: 100vw;
+    height: 100vh;
+    z-index: -1;
+}
